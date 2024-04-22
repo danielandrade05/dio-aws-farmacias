@@ -32,7 +32,6 @@ Etapa 3:
 A implementação de ferramentas na empresa *Abstergo Pharmaceutical Industries* tem como esperado os diversos benefícios das ferramentas acima citadas, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-[lista de anexos, como manuais, documentos, planilhas, entre outros] <br>
 1: https://aws.amazon.com/pt/websites/?nc2=h_ql_sol_use_web <br>
 2: https://aws.amazon.com/pt/ec2/?nc2=h_ql_prod_fs_ec2 <br>
 3: https://aws.amazon.com/pt/dynamodb/?nc2=h_ql_prod_fs_ddb <br>
